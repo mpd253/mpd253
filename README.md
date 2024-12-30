@@ -1,6 +1,4 @@
-# CHOI YOUNG KYU :scream:
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmpd253%2Fchoiyoungkyu&count_bg=%2355D9D5&title_bg=%2350C5CE&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# 🐱 CHOI YOUNG KYU
 
 <h2>🛠사용언어</h2>
 <div>
